@@ -69,3 +69,6 @@ except Exception as e:
 ## 联系我们
 
 我们建立了活跃的用户社群，您可以在群内进行技术交流、获取最新资讯和享受专属客服支持。请访问我们的[官方博客文章](https://www.aaigc.top/2025/06/13/34/)，扫描文末的二维码加入我们的微信或 QQ 群。 
+![image](https://github.com/user-attachments/assets/f3cfa12d-4de0-4327-b52d-3c007d7ae4be)
+![image](https://github.com/user-attachments/assets/f76a28b2-d1fc-454a-8fc9-e05d1fd8ba73)
+
