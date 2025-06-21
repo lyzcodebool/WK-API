@@ -23,7 +23,7 @@
 我们提供了与 OpenAI官方一致的接口标准，您可以轻松地从现有代码库迁移。更详细的API使用说明和模型列表，请查阅我们的 **[官方API文档](https://wkongai-bestapi.apifox.cn/)**。
 
 1.  **注册并获取 API 密钥**: 访问我们的[网站](https://api.wkongai.top/)，注册账户并获取您的专属 API Key。
-2.  **修改接口地址**: 将您代码中的 API Base URL 替换为 `https://api.wkongai.top/v1`。
+2.  **修改接口地址**: 将您代码中的 API Base URL 替换为 `https://api.wkongai.top`。
 
 以下是一个 Python 代码示例：
 
